@@ -43,18 +43,21 @@
 }
 
 .coin-price{
-    width: 110px;
+    padding-top: 10px;
+    width: 150px;
 }
 
 .coin-volume{
-    width: 200px;
+    padding-top: 10px;
+    width: 250px;
 }
 
 .coin-marketcap{
-    width: 240px;
+    width: 130px;
 }
 
 .coin-percent{
+    padding-top: 10px;
     width: 80%;
 }
 
